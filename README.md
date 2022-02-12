@@ -1,2 +1,2 @@
 # swimstroke
-Follow swimming freestyle  stroke in coding
+Learning git hub coding intial period
